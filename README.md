@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Adam Adamczyk
-- 👀 I’m interested in Java Programing, Full Stack Development, Astronomy and Streat WorkOut
+- 👀 I’m interested in Java Programing, Full Stack Development, Astronomy and Street Workout
 - 🌱 I’m currently learning Hybernate and Mongo
-- 💞️ I’m looking to collaborate on the design, production, development of applications or services 
+- 💞️ At now I'm Software Developer
 - 📫 How to reach me?
 Adress email: adam81119@gmail.com
 
